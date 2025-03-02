@@ -163,3 +163,15 @@ cython_debug/
 # IDEs
 .idea/
 .vscode/
+
+# input
+input/
+
+# output
+output/
+
+# model
+ldm/models/diffusion/
+
+
+
